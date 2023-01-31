@@ -3,5 +3,7 @@ public class Code1{
 		System.out.println("This is the first line of code");
 		System.out.println("*****************************");
 		System.out.println("^^^^^^^^^^^^^^^^^^^^^^^^^^^");
+
+		System.out.println("HHHHHHHHHHHH");
 	}
 }
